@@ -50,7 +50,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXv4xsa4l9fvKCDTWMvG0meoMveklG/beOvkw9xVnm
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-16.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-15 账户配置</div> <br/>
+<div class="text" style=" text-align:center;">图1-16 配置SSH keys</div> <br/>
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-17.png-bjstack" /></div>
