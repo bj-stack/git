@@ -3,6 +3,7 @@ Github顾名思义是一个Git版本库的托管服务，是目前全球最大�
 大多数用户都是为了寻找资源而爱上Github的，首先进入网站，点击注册(Sign up)：
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-11.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-11 分布式版本控制流程图</div> <br/>
+<div class="text" style=" text-align:center;">图1-11 点击注册github
+</div> <br/>
 
 ```
