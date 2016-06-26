@@ -1,5 +1,5 @@
 # 1.2Git环境准备
-以下使用`CentOS7`进行实践环境
+以下实践环境通过`CentOS7`完成
 ```
 [root@git-node1 ~]# cat /etc/redhat-release   #查看系统版本
 CentOS Linux release 7.1.1503 (Core) 
