@@ -4,7 +4,8 @@
 一直到2002年，Linux系统经过十余年的不断发展，代码库已经庞大到无法再让Linus通过手工的方式管理了，但是Linus真的很不喜欢CVS或者Subversion版本控制系统，于是商业公司BitMover决定将其公司的BitKeeper分布式版本控制系统授权给Linux开发社区来免费使用，当时的BitKeeper可以比较文件内容的不同，还能够将出错的文档还原到历史某个状态，Linus终于放下了心里的石头。
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-01.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-1 分布式版本控制流程图</div> <br>
+<div class="text" style=" text-align:center;">图1-1 分布式版本控制流程图</div> <br/>
+
 CVS和Subversion属于传统的版本控制系统，而分布式版本控制系统最大的特点是不需要每次提交都把文件推送到版本控制服务器，而是采用分布式版本库的机制，使得每个开发人员都够从服务器中克隆一份完整的版本库到自己计算机本地，不必再完全依赖于版本控制服务器，使得源代码的发布和合并更加方便，并且因为数据都在自己本地，不仅效率提高了，而且即便我们离开了网络依然可以执行提交文件、查看历史版本记录、创建分支等等操作，真的是开发者的福音啊。
 
 就这样平静的度过了三年时间，但是Linux社区聚集着太多的黑客人物，2005年时，那位曾经开发Samba服务程序的Andrew因为试图破解BitKeeper软件协议而激怒了BitMover公司，当即决定不再向Linux社区提供免费的软件授权了，此时的Linus其实也早已有自己编写分布式版本控制系统的打算了，于是便用C语言花了2周创建了Git分布式版本控制系统，并上传了Linux系统的源代码。
