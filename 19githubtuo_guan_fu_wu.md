@@ -43,6 +43,8 @@ The key's randomart image is:
 +-----------------+
  [root@git-node1 ~]# cat ~/.ssh/id_rsa.pub #查看公钥
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXv4xsa4l9fvKCDTWMvG0meoMveklG/beOvkw9xVnmFVhTg4qOCVhLXaaQtR1PJnKVhMok1vtYZu+ldAMHsSmHMuUCK2KMNFrZZaEloMeCNRkFY2vhY5XHuUBK2NjwgLjDXCYtIU40UmlFCU974ybWZJaCteIoHstLLQPoG/5PF5gqBOCeNLxkpq35jJTO9JvexeBMr2hG7NSzg9uZEDyRPUwEVY2yYZkq7hlAnR5H4f1X6HPePc64ZWLT3ZyddlK/9EXDLPu2VLMC7lj5mTGrJlQ54TU3dqSYQXzIV88GsdqxfZj8xbb9JOUZJK4KjAvqUkVmtaVFTTM77zCPUJSN root@git-node1.com
-
-
 ```
+
+<div style="text-align: center;">
+<img alt="" src="http://image.xuliangwei.com/git-15.png-bjstack" /></div>
+<div class="text" style=" text-align:center;">图1-15 账户配置</div> <br/>
