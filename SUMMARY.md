@@ -7,4 +7,5 @@
    * [1.5Git基本操作](gitji_ben_cao_zuo.md)
        * [1.5.1Git提交数据](151gitti_jiao_shu_ju.md)
        * 1.5.2Git移除数据
+       * 1.5.3Git移动数据
 
