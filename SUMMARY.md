@@ -10,5 +10,5 @@
        * 1.5.3Git移动数据
        * 1.5.4Git历史记录
        * 1.5.5Git还原数据
-   * 1.6Git管理分支结构
+   * [1.6Git管理分支结构](16gitguan_li_fen_zhi_jie_gou.md)
 
