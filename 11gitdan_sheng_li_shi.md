@@ -1,7 +1,7 @@
 # 1.1Git诞生历史
 我想大家还记得Linus torvalds在1991年时发布了Linux操作系统吧，从那以后Linux系统变不断发展壮大，因为Linux系统开源的特性，所以一直接受着来自全球Linux技术爱好者的贡献，志愿者们通过邮件向Linus发送着自己编写的源代码文件，然后由Linus本人通过手工的方式将代码合并，但这样不仅没有效率，而且真的是太痛苦了。
 
-一直到2002年，Linux系统经过十余年的不断发展，代码库已经庞大到无法再让Linus通过手工的方式管理了，但是Linus真的很不喜欢CVS或者Subversion版本控制系统，于是商业公司BitMover决定将其公司的BitKeeper分布式版本控制系统授权给Linux开发社区来免费使用，当时的BitKeeper可以比较文件内容的不同，还能够将出错的文档还原到历史某个状态，Linus终于放下了心里的石头。
+一直到2002年，Linux系统经过十余年的不断发展，代码库已经庞大到无法再让Linus通过手工的方式管理了，但是Linus真的很不喜欢CVS或者Subversion版本控制系统，于是商业公司BitMover决定将其公司的BitKeeper分布式版本控制系统授权给Linux开发社区来免费使用，当时的BitKeeper可以比较文件内容的不同，还能够将出错的文档还原到历史某个状态，Linus终于放下了心里的石头。 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-01.png-bjstack" /></div>
 <div class="text" style=" text-align:center;">图1-1 分布式版本控制流程图</div> <br/>
