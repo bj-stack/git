@@ -11,7 +11,7 @@
        * 1.5.4Git历史记录
        * 1.5.5Git还原数据
    * [1.6Git分支管理](16gitguan_li_fen_zhi_jie_gou.md)
-       * 1.6.1Git创建分支
+       * [1.6.1Git创建分支](161gitchuang_jian_fen_zhi.md)
        * 1.6.2Git合并分支
        * 1.6.3Git分支冲突
    * [1.7Git标签管理](17gitbiao_qian_guan_li.md)
