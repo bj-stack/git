@@ -22,7 +22,7 @@ Initialized empty Git repository in /root/xubusi/.git/
 #       new file:   readme.txt  #发现新建立的文件readme.txt已经变绿
 …
 
-[root@git-node1 xubusi]# git commit -m "the first commit"  #git cmmit提交暂存取文件至git版本仓库
+[root@git-node1 xubusi]# git commit -m "the first commit"  #git commit提交暂存取文件至git版本仓库
 [master (root-commit) dde9e40] the first commit
  1 file changed, 1 insertion(+)
  create mode 100644 readme.txt
