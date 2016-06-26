@@ -66,8 +66,39 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXv4xsa4l9fvKCDTWMvG0meoMveklG/beOvkw9xVnm
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-20.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-19 点击创建一个新的仓库</div> <br/>
+<div class="text" style=" text-align:center;">图1-20 填写仓库的信息</div> <br/>
 
+<div style="text-align: center;">
+<img alt="" src="http://image.xuliangwei.com/git-21.png-bjstack" /></div>
+<div class="text" style=" text-align:center;">图1-21 创建成功后会跳转到该仓库,选择ssh模式,复制版本仓库克隆地址</div><br/>
+```
+[root@git-node1 ~]# git clone git@github.com:xubusi3/demo.git  #手动克隆测试
+Cloning into 'demo'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+[root@git-node1 ~]# cat demo/README.md  #查看详细信息
+# demo
+描述信息--可以不写
+[root@git-node1 ~]# cd demo/ #进入github clone下来的仓库
+[root@git-node1 demo]# echo "test is git" >>test.txt #添加新文件
+[root@git-node1 demo]# git add test.txt #添加到git暂存区
+[root@git-node1 demo]# git commit -m "add test file" #提交到git版本仓库
+[master 66cace0] add test file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test.txt
+
+[root@git-node1 demo]# git remote  #查看本机列表
+origin
+[root@git-node1 demo]# git push -u origin master #然后将本地的Git仓库同步到远程Github服务器上(第一次请加上参数-u，代表关联本地与远程) 
+Counting objects: 4, done.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 281 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@github.com:xubusi3/demo.git
+   1b836ba..66cace0  master -> master
+Branch master set up to track remote branch master from origin.
+```
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-22.png-bjstack" /></div>
