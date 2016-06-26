@@ -5,4 +5,5 @@
    * [1.2Git环境准备](12githuan_jing_zhun_bei.md)
    * 1.3Git安装部署
    * [Git基本操作](gitji_ben_cao_zuo.md)
+       * 1.5.1Git提交数据
 
