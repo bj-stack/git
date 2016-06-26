@@ -14,7 +14,7 @@
        * 1.6.1Git创建分支
        * 1.6.2Git合并分支
        * 1.6.3Git分支冲突
-   * 1.7Git标签管理
+   * [1.7Git标签管理](17gitbiao_qian_guan_li.md)
    * [1.8GitLab实践](18gitlabshi_jian.md)
        * [1.8.1GitLab配置ssh](181gitlabpei_zhi_ssh.md)
    * [1.9GitHub托管服务](19githubtuo_guan_fu_wu.md)
