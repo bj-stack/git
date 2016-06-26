@@ -4,7 +4,7 @@
    * [1.1Git诞生历史](11gitdan_sheng_li_shi.md)
    * [1.2Git环境准备](12githuan_jing_zhun_bei.md)
    * [1.3Git安装部署](13gitan_zhuang_bu_shu.md)
-   * 1.4Git常用命令
+   * [1.4Git常用命令](14gitchang_yong_ming_ling.md)
    * [1.5Git基本操作](gitji_ben_cao_zuo.md)
        * [1.5.1Git提交数据](151gitti_jiao_shu_ju.md)
        * [1.5.2Git移除数据](152gityi_chu_shu_ju.md)
