@@ -16,7 +16,7 @@
        * 1.6.3Git分支冲突
    * 1.7Git标签管理
    * [1.8GitLab实践](18gitlabshi_jian.md)
-       * 1.8.1GitLab配置ssh
+       * [1.8.1GitLab配置ssh](181gitlabpei_zhi_ssh.md)
    * [1.9GitHub托管服务](19githubtuo_guan_fu_wu.md)
    * [1.10Git客户端工具](110gitke_hu_duan_gong_ju.md)
 
