@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Git入门最佳实践](README.md)
 * [第一章](chapter1.md)
 
