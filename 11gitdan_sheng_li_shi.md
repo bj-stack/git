@@ -18,21 +18,14 @@ Git为了提高效率，对于没有被修改的文件，则不会重复存储�
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-03.png-bjstack" /></div>
 <div class="text" style=" text-align:center;">图1-3 git提交流程图</div><br/>
-在正式使用前，我们还需要弄清楚Git的三种重要模式，分别是已提交、已修改、已暂存
-
-已提交(committed):表示数据文件已经顺利提交到Git数据库中。
-
-已修改(modified):表示数据文件已经被修改，但未被保存到Git数据库中。
-
-已暂存(staged):表示数据文件已经被修改，并会在下次提交时提交到Git数据库中。
-
-提交前的数据文件可能会被随意修改或丢失，但只要把文件快照顺利提交到Git数据库中，那就可以完全放心了，流程为：
-
-1.在工作目录中修改数据文件。
-
-2.将文件的快照放入暂存区域。
-
-3.将暂存区域的文件快照提交到Git仓库中。
+在正式使用前，我们还需要弄清楚Git的三种重要模式，分别是已提交、已修改、已暂存。<br/>
+已提交(committed):表示数据文件已经顺利提交到Git数据库中。<br/>
+已修改(modified):表示数据文件已经被修改，但未被保存到Git数据库中。<br/>
+已暂存(staged):表示数据文件已经被修改，并会在下次提交时提交到Git数据库中。<br/>
+提交前的数据文件可能会被随意修改或丢失，但只要把文件快照顺利提交到Git数据库中，那就可以完全放心了，流程为：<br/>
+1.在工作目录中修改数据文件。<br/>
+2.将文件的快照放入暂存区域。<br/>
+3.将暂存区域的文件快照提交到Git仓库中。<br/>
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-04.png-bjstack" /></div>
