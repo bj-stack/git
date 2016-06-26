@@ -8,7 +8,7 @@
        * [1.5.1Git提交数据](151gitti_jiao_shu_ju.md)
        * [1.5.2Git移除数据](152gityi_chu_shu_ju.md)
        * [1.5.3Git移动数据](153gityi_dong_shu_ju.md)
-       * 1.5.4Git历史记录
+       * [1.5.4Git历史记录](154gitli_shi_ji_lu.md)
        * 1.5.5Git还原数据
    * [1.6Git分支管理](16gitguan_li_fen_zhi_jie_gou.md)
        * [1.6.1Git创建分支](161gitchuang_jian_fen_zhi.md)
