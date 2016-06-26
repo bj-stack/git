@@ -4,11 +4,21 @@ Github顾名思义是一个Git版本库的托管服务，是目前全球最大�
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-11.png-bjstack" /></div>
 <div class="text" style=" text-align:center;">图1-11 点击注册github</div> <br/>
+
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-12.png-bjstack" /></div>
 <div class="text" style=" text-align:center;">图1-12 填写注册信息</div> <br/>
 
+<div style="text-align: center;">
+<img alt="" src="http://image.xuliangwei.com/git-13.png-bjstack" /></div>
+<div class="text" style=" text-align:center;">图1-13 选择仓库类型,默认免费,点击底下finish sign up注册
+</div> <br/>
 
+<div style="text-align: center;">
+<img alt="" src="http://image.xuliangwei.com/git-14.png-bjstack" /></div>
+<div class="text" style=" text-align:center;">图1-14 GitHub账号注册完成
+
+</div> <br/>
 
 
 ```
