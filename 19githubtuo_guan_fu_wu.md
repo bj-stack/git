@@ -16,9 +16,7 @@ Github顾名思义是一个Git版本库的托管服务，是目前全球最大�
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-14.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-14 GitHub账号注册完成
-
-</div> <br/>
+<div class="text" style=" text-align:center;">图1-14 GitHub账号注册完成</div> <br/>
 
 
 ```
