@@ -1,5 +1,6 @@
 # 1.2Git环境准备
 以下实践环境通过`CentOS7.1`完成
+**建议环境保持高度一致，否则会导致实验无法完成情况**
 ```
 [root@git-node1 ~]# cat /etc/redhat-release   #查看系统版本
 CentOS Linux release 7.1.1503 (Core) 
@@ -12,6 +13,6 @@ Disabled
 192.168.56.115
 ```
 
->建议环境保持高度一致，否则会导致实践无法完成情况
+
 
 
