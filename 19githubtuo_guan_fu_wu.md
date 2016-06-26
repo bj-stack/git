@@ -66,13 +66,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXv4xsa4l9fvKCDTWMvG0meoMveklG/beOvkw9xVnm
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-20.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-20 填写仓库的信息</div> <br/>
+<div class="text" style=" text-align:center;">图1-19 点击创建一个新的仓库</div> <br/>
 
-<div style="text-align: center;">
-<img alt="" src="http://image.xuliangwei.com/git-21.png-bjstack" /></div>
+
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-22.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-22 刷新一下web,果然看到版本仓库已经同步了
-
-</div> <br/>
-
+<div class="text" style=" text-align:center;">图1-22 刷新一下web,果然看到版本仓库已经同步了</div> <br/>
