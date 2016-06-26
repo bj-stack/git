@@ -22,5 +22,5 @@ gitlab-ctl start
 
 4. 浏览到主机名和登录Browse to the hostname and login
 Username: root 
-  Password: 5iveL!fe
+Password: 5iveL!fe
 ```
