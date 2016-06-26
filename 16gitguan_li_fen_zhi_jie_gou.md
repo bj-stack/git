@@ -8,5 +8,3 @@
 <img alt="" src="http://image.xuliangwei.com/git-06.png-bjstack" /></div>
 <div class="text" style=" text-align:center;">图1-6 生产代码提交方式
 </div> <br/>
-
-
