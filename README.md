@@ -2,6 +2,7 @@
 git从入门到实践
 
 
-欢迎关注 bjstack.com社区 社区微博 @dockerpool<br/>
-或加入 BjStack QQ 群（524721466）<br/>
-分享资源，交流技术。
+欢迎关注 bjstack.com社区<br/>
+BjStack技术交流QQ 群（524721466）<br/>
+BjStack意见反馈QQ 群（524721466）<br/>
+BjStack堪错交流QQ 群（524721466）<br/>
