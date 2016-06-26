@@ -1,5 +1,6 @@
 # 1.2Git环境准备
 以下实践环境通过`CentOS7.1`完成
+
 **环境最好保持一致，否则会导致实验出现问题**
 ```
 [root@git-node1 ~]# cat /etc/redhat-release   #查看系统版本
