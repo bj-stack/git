@@ -62,7 +62,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXv4xsa4l9fvKCDTWMvG0meoMveklG/beOvkw9xVnm
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-19.png-bjstack" /></div>
-<div class="text" style=" text-align:center;">图1-15 账户配置</div> <br/>
+<div class="text" style=" text-align:center;">图1-19 点击创建一个新的仓库</div> <br/>
 
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-20.png-bjstack" /></div>
