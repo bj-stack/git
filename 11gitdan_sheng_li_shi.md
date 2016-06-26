@@ -12,6 +12,28 @@ CVS和Subversion属于传统的版本控制系统，而分布式版本控制系�
 <div style="text-align: center;">
 <img alt="" src="http://image.xuliangwei.com/git-02.png-bjstack" /></div>
 <div class="text" style=" text-align:center;">图1-2 git_log</div> <br/>
+Git不仅是一款开源的分布式版本控制系统，而且有其独特的功能特性，例如大多数的分布式版本控制系统只会记录每次文件的变化，说白了就是只会关心文件的内容变化差异，而Git则是关注于文件数据整体的变化，直接会将文件提交时的数据保存成快照，而非仅记录差异内容，并且使用SHA-1加密算法保证数据的完整性。
 
+Git为了提高效率，对于没有被修改的文件，则不会重复存储，而是创建一个链接指向之前存储过的文件。
+<div style="text-align: center;">
+<img alt="" src="http://image.xuliangwei.com/git-03.png-bjstack" /></div>
+<div class="text" style=" text-align:center;">图1-3 git提交流程图</div><br/>
+在正式使用前，我们还需要弄清楚Git的三种重要模式，分别是已提交、已修改、已暂存
 
+已提交(committed):表示数据文件已经顺利提交到Git数据库中。
 
+已修改(modified):表示数据文件已经被修改，但未被保存到Git数据库中。
+
+已暂存(staged):表示数据文件已经被修改，并会在下次提交时提交到Git数据库中。
+
+提交前的数据文件可能会被随意修改或丢失，但只要把文件快照顺利提交到Git数据库中，那就可以完全放心了，流程为：
+
+1.在工作目录中修改数据文件。
+
+2.将文件的快照放入暂存区域。
+
+3.将暂存区域的文件快照提交到Git仓库中。
+
+<div style="text-align: center;">
+<img alt="" src="http://image.xuliangwei.com/git-04.png-bjstack" /></div>
+<div class="text" style=" text-align:center;">图1-4 git工作模式</div>
