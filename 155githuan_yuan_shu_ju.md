@@ -1,5 +1,6 @@
 # 1.5.5Git还原数据
 >当提交不是自己想要的，可以进行回退上一版本
+
 ```
 [root@git-node1 xubusi]# echo "Git is a version control system" >> readme.txt #追加一段话
 [root@git-node1 xubusi]# git add readme.txt  #添加至暂存区
